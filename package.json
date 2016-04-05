@@ -1,0 +1,27 @@
+{
+  "name": "assignment1",
+  "version": "1.0.0",
+  "description": "Get twitter feed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+   
+  },
+  "keywords": [
+    "ranjith",
+    "nambiar"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies":{
+  	"babel-core":"6.1.*",
+  	"babel-loader":"6.1.*",
+  	"webpack":"1.12.*"
+  },
+  "dependencies":{
+  	"react":"^0.14.8",
+  	"react-dom":"^0.14.8",
+  	"twitter": "^1.2.5",
+  	"twitter-text": "^1.11.0"
+  }
+}
